@@ -1,8 +1,8 @@
 name: build-sphinx-to-gh-pages
 
 env:
-  GITHUB_ACTOR: rickgelhausen
-  GITHUB_REPOSITORY: rickgelhausen/blog_posts
+  GITHUB_ACTOR: RickGelhausen
+  GITHUB_REPOSITORY: RickGelhausen/blog_posts
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 on:
