@@ -13,7 +13,7 @@ export SOURCE_DATE_EPOCH=$(git log -1 --pretty=%ct)
 #######################
 
 make clean
-make html
+make github
 
 #######################
 # Update Github Pages #
