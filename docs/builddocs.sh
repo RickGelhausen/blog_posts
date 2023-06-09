@@ -35,7 +35,7 @@ touch .nojekyll
 
 cat > README.md <<EOF
 # README
-This branch is a cache for the website served from https://RickGelhausen.github.io/blog_posts/.
+This branch is a cache for the website served from https://RickGelhausen.github.io/websperiments/.
 
 EOF
 
