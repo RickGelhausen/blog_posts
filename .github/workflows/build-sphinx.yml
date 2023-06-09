@@ -2,7 +2,7 @@ name: build-sphinx-to-gh-pages
 
 env:
   GITHUB_ACTOR: RickGelhausen
-  GITHUB_REPOSITORY: RickGelhausen/blog_posts
+  GITHUB_REPOSITORY: RickGelhausen/websperiments
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 on:
