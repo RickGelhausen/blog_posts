@@ -1,4 +1,4 @@
-:::{.test-class}
+```{.test-class}
 
 ## Test markdown
 
@@ -6,4 +6,4 @@
 
 Great!?
 
-:::
+```
