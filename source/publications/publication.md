@@ -6,3 +6,7 @@
 
 Great!?
 ```
+
+```{warning}
+Here's my warning
+```
