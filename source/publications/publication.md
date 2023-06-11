@@ -1,4 +1,4 @@
-```{.test-class} css
+```{test-class} css
 
 ## Test markdown
 
