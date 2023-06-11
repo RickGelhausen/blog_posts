@@ -56,4 +56,4 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 # Create custom css for the webpage
-html_css_files = ['_static/custom.css']
+html_css_files = ['custom.css']
